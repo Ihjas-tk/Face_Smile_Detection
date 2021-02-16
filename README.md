@@ -1,7 +1,7 @@
 # Real-Time Face And Smile Detection
 
 This is my first project on computer vision. It is based on a research paper by Paul Viola and Michael Jones in 2001.
-More popularly known as the Viola James algorithm, even though it was developed two decades ago it is still widely accepted and provides 
+More popularly known as the Viola James Algorithm, even though it was developed two decades ago it is still widely accepted and provides 
 good accuracy for face detection.
 
 ## Basic Intuition 
